@@ -35,6 +35,7 @@ process_whitelist = [
     'housecall.bin',
     'avastui.exe',
     'dphostw.exe',
+    'ekrn.exe',
 ]
 
 def scan(queue_results):
