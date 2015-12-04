@@ -58,7 +58,7 @@ except ImportError: # pragma: no cover
 
 
 # We now try to fix 2.5/2.6/3.1/3.2 incompatibilities.
-# It ain't pretty but it works... Sorry for the mess.
+# It ain't pretty but it works.... Sorry for the mess.
 
 py   = sys.version_info
 py3k = py >= (3, 0, 0)
